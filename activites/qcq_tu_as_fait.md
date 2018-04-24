@@ -2,7 +2,7 @@
 
 1. Demande à un autre élève ce qu'il / elle a fait hier, ce week-end ou un autre jour.
 
-2. Quand l'élève a répondu, pose trois questions pour avoir plus de détails. Utilise les mots interrogatifs ([Quizlet](https://quizlet.com/_4oejkf)) :
+2. Quand l'élève a répondu, pose trois questions pour avoir plus de détails. Utilise [les mots interrogatifs](https://quizlet.com/_4oejkf) :
 - est-ce que
 - qui / avec qui
 - quel / quelle
