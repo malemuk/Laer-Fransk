@@ -29,6 +29,6 @@ E2 : Oui._
 
 _E2 a joué au foot hier avec Caroline pendant une heure. E2 aime jouer au foot._
 
-Ressources :
+__Ressources :__
 - [Les temps des verbes](https://malemuk.github.io/Laer-Fransk/grammaire/conjugaison/temps.html) (= verbtidene)
 - [Poser une question](https://quizlet.com/_4oejkf) (quizlet)
