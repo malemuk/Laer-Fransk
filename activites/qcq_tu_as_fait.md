@@ -1,4 +1,4 @@
-#Qu'est-ce que tu as fait ?
+# Qu'est-ce que tu as fait ?
 
 1. Demande à un autre élève ce qu'il / elle a fait hier, ce week-end ou un autre jour.
 
