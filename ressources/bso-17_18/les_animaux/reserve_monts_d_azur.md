@@ -16,7 +16,7 @@ Les femelles et les jeunes sont en groupes. Le rut est entre le mois de novembre
 Les mises bas sont en février-mars après une gestation de 17 semaines environ.
 La mère fait un nid pour les petits avec de la paille.
 
-__Ressources :__
+__Ressources :__  
 [La réserve des Monts d'Azur](http://www.haut-thorenc.com)  
 [Photo 1](http://www.haut-thorenc.com/wp-content/uploads/2014/04/Le-sanglier-1-V2.jpg)  
 [Photo 2](http://www.haut-thorenc.com/wp-content/uploads/2014/04/Le-sanglier-2-V2.jpg)  
