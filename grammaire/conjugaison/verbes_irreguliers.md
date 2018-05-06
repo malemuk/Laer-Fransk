@@ -1,4 +1,4 @@
-# Verbes irréguliers fréquents (*= ofte brukte uregelmessige verb*) |  [Quizlet](https://quizlet.com/_4kqu3c)
+# Les verbes irréguliers fréquents (*= ofte brukte uregelmessige verb*) |  [Quizlet](https://quizlet.com/_4kqu3c)
 
 ## Faire (*= å gjøre*)
 
