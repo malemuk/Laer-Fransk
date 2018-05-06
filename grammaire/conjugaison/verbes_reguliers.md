@@ -1,4 +1,4 @@
-# Verbes réguliers (*= regelmessige verb*) | [Quizlet](https://quizlet.com/_4kqsct)
+# Les verbes réguliers (*= regelmessige verb*) | [Quizlet](https://quizlet.com/_4kqsct)
 
 ## Infinitif en -ER (*= infinitiv i -ER*)
 
