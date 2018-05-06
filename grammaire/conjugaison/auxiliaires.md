@@ -1,4 +1,4 @@
-# Auxiliaires (*= hjelpeverb*) | [Quizlet](https://quizlet.com/_4kqtbn)
+# Les auxiliaires (*= hjelpeverb*) | [Quizlet](https://quizlet.com/_4kqtbn)
 
 ## Être (*= å være / hjelpeverb til passé composé*)
 
