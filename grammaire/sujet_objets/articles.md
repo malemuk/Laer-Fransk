@@ -4,6 +4,15 @@ I motsetning til på norsk, er det ALLTID artikkel foran substantivene på frans
 
 ## Article défini / indéfini _(= bestemt / ubestemt artikkel)_
 
-|Présent                 |   |Futur proche                |   | Passé composé            |
-|:---------------------- |---|:-------------------------- |---| :----------------------- |
-|je parl**e**            |   |je **vais** parler          |   |j'**ai** parlé            |
+På norsk:
+
+|          |Entall ubestemt|Entall bestemt|Flertall ubestemt|Flertall bestemt|
+|:---------|:--------------|:-------------|:----------------|:---------------|
+|Intetkjønn|__et__ bord    |bord__et__    |border           |bordene         |
+|Hankjønn  |en bil         |bilen         |biler            |bilene          |
+|Hunkjønn  |ei ku          |kua           |kyr              |kyrne           |
+
+
+På fransk:
+
+
