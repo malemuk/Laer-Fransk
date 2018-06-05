@@ -9,7 +9,7 @@ Il a un long groin qui l'aide à remuer la terre pour chercher de la nourriture.
 Les agriculteurs n'aiment pas le sanglier parce qu'il abîme les cultures. Dans la nature, quand il remue
 la terre, il améliore la qualité de la terre et favorise la germination de nombreuses graines.
 
-La nourriture du sanglier est particulièrement variée : racines, bulbes, fruits, herbages, larves d'insectes
+La nourriture du sanglier est particulièrement variée : racines, bulbes, fruits, herbages, larves d'insectes,
 oeufs et parfois cadavres d'animaux.
 
 Les femelles et les jeunes sont en groupes. Le rut est entre le mois de novembre et le mois de janvier.
